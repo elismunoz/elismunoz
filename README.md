@@ -1,31 +1,37 @@
 <div align="center">
 
-  <!-- Header Banner Dynamic -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=001F3F&customColorList=1,2,5,10,25,30&height=220&section=header&text=Elis%20Muñoz&fontSize=70&fontColor=87CEEB&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile%20&descAlignY=62&descAlign=50" width="100%" alt="Header Banner"/>
+  <!-- Banner Futurista Elegante en Fondo Negro con Oveja Dynamic -->
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=70&lines=ELIS+MU%C3%91OZ;DEVELOPER+%26+CREATOR" alt="Elis Muñoz Header" />
 
   <br/>
 
-  <!-- Badges en tonos azul, celeste y negro -->
+  <!-- Animación de la Oveja Saltando (Luz Celeste Neón sobre Negro Profundo) -->
+  <p align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z2dWgxeWhydDF5ZnBycGllMzE0cmtsMDFtdnRtdXRtM2pxdTF2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjRrfIPjeiVyM/giphy.gif" width="380" style="border-radius: 12px; filter: hue-rotate(170deg) contrast(120%);" alt="Jumping Sheep Animation"/>
+  </p>
+
   <p align="center">
     <a href="https://github.com/elismunoz">
-      <img src="https://img.shields.io/badge/Focus-Software_Development-001f3f?style=for-the-badge&logoColor=87ceeb&color=050b14" alt="Focus"/>
+      <img src="https://img.shields.io/badge/ELIS_MUÑOZ-PROFILE-000000?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=090D16" alt="Elis Muñoz"/>
     </a>
     <a href="https://github.com/elismunoz">
-      <img src="https://img.shields.io/badge/Theme-Navy_%26_Sky_Blue-003366?style=for-the-badge&logoColor=87ceeb&color=0d1b2a" alt="Theme"/>
-    </a>
-    <a href="https://github.com/elismunoz">
-      <img src="https://img.shields.io/badge/Status-Building_Cool_Stuff-004080?style=for-the-badge&logoColor=87ceeb&color=1b263b" alt="Status"/>
+      <img src="https://img.shields.io/badge/STATUS-ACTIVE-000000?style=for-the-badge&logo=codeforces&logoColor=0077B6&labelColor=090D16" alt="Status"/>
     </a>
   </p>
 
-  ---
+  <br/>
 
-  ### 🐑 Mini Sheep Game & Corner / El Rincón de la Oveja 🐑
+  <!-- Separador Neón Elegante -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-db03d000-a425-11eb-823e-1465643c99a2.gif" width="100%" height="2px" alt="Line Separator"/>
 
-  <!-- Juego / Animación de Oveja Dinámica -->
-  <p align="center">
-    <i>¡Haz click en la oveja para jugar o ver cómo pasta en GitHub!</i><br/><br/>
-    <a href="https://github.com/elismunoz">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=87CEEB&center=true&vCenter=true&width=500&lines=Counting+sheep... 🐑 1... 2... 3...;🐑 ⩇⩇:⩇⩇ - Sleep mode: OFF;A sheep just jumped over the code! ⚡;Elis Muñoz %7C Developer Profile" alt="Typing Sheep Animation" />
-    </a>
-  </p>
+</div>
+
+<br/>
+
+## ─── ❖ ABOUT ME
+
+```sys
+> User: Elis Muñoz
+> Role: Software Developer / Tech Enthusiast
+> Theme: Deep Black | Electric Blue | Sky Cyan
+> Motto: "Precision in code, elegance in design."
