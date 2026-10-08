@@ -23,7 +23,6 @@ Pero mi mayor herramienta siempre será mi voz 🎙️
 <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Word"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </div>
-________________________________________
-Acerca de mí
+
 Soy una persona increiblemente apasionada por las conferencias.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0a0620&height=100&section=footer" width="100%" alt="footer"/>
