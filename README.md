@@ -25,13 +25,5 @@ Pero mi mayor herramienta siempre será mi voz 🎙️
 </div>
 ________________________________________
 Acerca de mí
-Escribe aquí un poco más sobre ti.
-Proyectos
-🔹 Proyecto 1: descripción breve
-🔹 Proyecto 2: descripción breve
-Blog
-📝 Título de tu artículo
-Contacto
-📧 tu-correo@ejemplo.com
-💼 LinkedIn
+Soy una persona increiblemente apasionada por las conferencias.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0a0620&height=100&section=footer" width="100%" alt="footer"/>
